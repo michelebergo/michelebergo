@@ -15,6 +15,10 @@ I build open-source tools for **astrophotography automation** and **home automat
 - **[samsung_ac](https://github.com/michelebergo/samsung_ac)** — Samsung HVAC integration
 - **[esp8266-comfoair-mqtt](https://github.com/michelebergo/esp8266-comfoair-mqtt)** — Zehnder ComfoAir ventilation over MQTT
 
+## 📫 Contact
+
+![Discord](https://img.shields.io/badge/Discord-michele__bergo-5865F2?logo=discord&logoColor=white) — find me on the NINA Discord server for plugin support and OAPA beta testing
+
 ## ☕ Support
 
 All of this is developed independently in my free time and will always stay free and open. If it's useful to you:
