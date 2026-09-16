@@ -17,7 +17,10 @@ I build open-source tools for **astrophotography automation** and **home automat
 
 ## 📫 Contact
 
-![Discord](https://img.shields.io/badge/Discord-michele__bergo-5865F2?logo=discord&logoColor=white) — find me on the NINA Discord server for plugin support and OAPA beta testing
+[![MBAstro](https://img.shields.io/badge/MBAstro-mblabtech.com-000000?logo=googlechrome&logoColor=white)](https://mblabtech.com/) — the projects, in one place
+[![YouTube](https://img.shields.io/badge/YouTube-%40MBAstro1-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@MBAstro1) — builds, field nights and results
+[![OAPA Discord](https://img.shields.io/badge/Discord-OAPA%20server-5865F2?logo=discord&logoColor=white)](https://discord.gg/QFYRGEdWT) — hardware talk, beta testing, help with your own build
+![Discord](https://img.shields.io/badge/Discord-michele__bergo-5865F2?logo=discord&logoColor=white) — also on the NINA Discord server for plugin support
 
 ## ☕ Support
 
